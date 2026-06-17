@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+httpx
+pydantic>=2
+google-generativeai
+python-multipart
+langgraph>=0.2.0
+langchain-google-genai>=1.0.0
+pytest
+pytest-asyncio
+respx

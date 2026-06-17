@@ -1,0 +1,23 @@
+{
+  "sapphirepk": {
+    "XS": {"chest": 32.0, "waist": 26.0, "hips": 35.0},
+    "S": {"chest": 34.0, "waist": 28.0, "hips": 37.0},
+    "M": {"chest": 38.0, "waist": 32.0, "hips": 41.0},
+    "L": {"chest": 42.0, "waist": 36.0, "hips": 45.0},
+    "XL": {"chest": 46.0, "waist": 40.0, "hips": 49.0}
+  },
+  "outfitters": {
+    "XS": {"chest": 33.0, "waist": 25.0, "hips": 35.0},
+    "S": {"chest": 35.0, "waist": 27.0, "hips": 37.0},
+    "M": {"chest": 37.0, "waist": 29.0, "hips": 39.0},
+    "L": {"chest": 39.0, "waist": 31.0, "hips": 41.0},
+    "XL": {"chest": 41.0, "waist": 33.0, "hips": 43.0}
+  },
+  "generation": {
+    "XS": {"chest": 32.0, "waist": 26.0, "hips": 36.0},
+    "S": {"chest": 34.0, "waist": 28.0, "hips": 38.0},
+    "M": {"chest": 36.0, "waist": 30.0, "hips": 40.0},
+    "L": {"chest": 40.0, "waist": 34.0, "hips": 44.0},
+    "XL": {"chest": 44.0, "waist": 38.0, "hips": 48.0}
+  }
+}

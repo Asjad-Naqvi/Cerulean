@@ -1,0 +1,319 @@
+[
+  {
+    "slug": "sapphirepk",
+    "name": "Sapphire",
+    "base_url": "https://sapphirepk.com",
+    "platform": "shopify",
+    "products_endpoint": "/products.json",
+    "price_tier": "mid",
+    "gender": "women",
+    "categories": [
+      "pret",
+      "unstitched"
+    ],
+    "active": true
+  },
+  {
+    "slug": "outfitters",
+    "name": "Outfitters",
+    "base_url": "https://outfitters.com.pk",
+    "platform": "shopify",
+    "products_endpoint": "/products.json",
+    "price_tier": "mid",
+    "gender": "unisex",
+    "categories": [
+      "western",
+      "eastern"
+    ],
+    "active": true
+  },
+  {
+    "slug": "gulahmed",
+    "name": "Gul Ahmed",
+    "base_url": "https://gulahmedshop.com",
+    "platform": "shopify",
+    "products_endpoint": "/products.json",
+    "price_tier": "mid",
+    "gender": "women",
+    "categories": [
+      "lawn",
+      "pret"
+    ],
+    "active": true
+  },
+  {
+    "slug": "alkaram",
+    "name": "Alkaram Studio",
+    "base_url": "https://alkaramstudio.com",
+    "platform": "shopify",
+    "products_endpoint": "/products.json",
+    "price_tier": "mid",
+    "gender": "women",
+    "categories": [
+      "fabric",
+      "pret"
+    ],
+    "active": true
+  },
+  {
+    "slug": "bonanzasatrangi",
+    "name": "Bonanza Satrangi",
+    "base_url": "https://bonanzasatrangi.com",
+    "platform": "shopify",
+    "products_endpoint": "/products.json",
+    "price_tier": "mid",
+    "gender": "women",
+    "categories": [
+      "unstitched",
+      "pret"
+    ],
+    "active": true
+  },
+  {
+    "slug": "asimjofa",
+    "name": "Asim Jofa",
+    "base_url": "https://asimjofa.com",
+    "platform": "shopify",
+    "products_endpoint": "/products.json",
+    "price_tier": "premium",
+    "gender": "women",
+    "categories": [
+      "luxury",
+      "pret"
+    ],
+    "active": true
+  },
+  {
+    "slug": "crossstitch",
+    "name": "Cross Stitch",
+    "base_url": "https://cross-stitch.pk",
+    "platform": "shopify",
+    "products_endpoint": "/products.json",
+    "price_tier": "mid",
+    "gender": "women",
+    "categories": [
+      "eastern"
+    ],
+    "active": true
+  },
+  {
+    "slug": "limelight",
+    "name": "Limelight",
+    "base_url": "https://limelight.pk",
+    "platform": "shopify",
+    "products_endpoint": "/products.json",
+    "price_tier": "budget",
+    "gender": "women",
+    "categories": [
+      "pret"
+    ],
+    "active": true
+  },
+  {
+    "slug": "zeen",
+    "name": "Zeen",
+    "base_url": "https://zeenwomanofficial.com",
+    "platform": "shopify",
+    "products_endpoint": "/products.json",
+    "price_tier": "mid",
+    "gender": "women",
+    "categories": [
+      "formal",
+      "pret"
+    ],
+    "active": true
+  },
+  {
+    "slug": "kayseria",
+    "name": "Kayseria",
+    "base_url": "https://kayseria.com",
+    "platform": "shopify",
+    "products_endpoint": "/products.json",
+    "price_tier": "budget",
+    "gender": "women",
+    "categories": [
+      "pret"
+    ],
+    "active": true
+  },
+  {
+    "slug": "ego",
+    "name": "Ego",
+    "base_url": "https://pk.ego.com",
+    "platform": "shopify",
+    "products_endpoint": "/products.json",
+    "price_tier": "mid",
+    "gender": "unisex",
+    "categories": [
+      "urban",
+      "casual"
+    ],
+    "active": false
+  },
+  {
+    "slug": "charcoal",
+    "name": "Charcoal",
+    "base_url": "https://charcoalpk.com",
+    "platform": "shopify",
+    "products_endpoint": "/products.json",
+    "price_tier": "mid",
+    "gender": "unisex",
+    "categories": [
+      "smart",
+      "casual"
+    ],
+    "active": false
+  },
+  {
+    "slug": "sanasafinaz",
+    "name": "Sana Safinaz",
+    "base_url": "https://sanasafinaz.com",
+    "platform": "shopify",
+    "products_endpoint": "/products.json",
+    "price_tier": "premium",
+    "gender": "women",
+    "categories": [
+      "formal",
+      "lawn"
+    ],
+    "active": true
+  },
+  {
+    "slug": "mariab",
+    "name": "Maria B",
+    "base_url": "https://mariab.pk",
+    "platform": "shopify",
+    "products_endpoint": "/products.json",
+    "price_tier": "premium",
+    "gender": "women",
+    "categories": [
+      "bridal",
+      "pret"
+    ],
+    "active": true
+  },
+  {
+    "slug": "elan",
+    "name": "\u00c9lan",
+    "base_url": "https://elanofficial.com",
+    "platform": "shopify",
+    "products_endpoint": "/products.json",
+    "price_tier": "luxury",
+    "gender": "women",
+    "categories": [
+      "occasionwear"
+    ],
+    "active": true
+  },
+  {
+    "slug": "mushq",
+    "name": "Mushq",
+    "base_url": "https://mushq.pk",
+    "platform": "shopify",
+    "products_endpoint": "/products.json",
+    "price_tier": "mid",
+    "gender": "women",
+    "categories": [
+      "trendy",
+      "pret"
+    ],
+    "active": true
+  },
+  {
+    "slug": "zarashahjahan",
+    "name": "Zara Shahjahan",
+    "base_url": "https://zarashahjahan.com",
+    "platform": "shopify",
+    "products_endpoint": "/products.json",
+    "price_tier": "premium",
+    "gender": "women",
+    "categories": [
+      "signature"
+    ],
+    "active": true
+  },
+  {
+    "slug": "baroque",
+    "name": "Baroque",
+    "base_url": "https://baroquepk.com",
+    "platform": "shopify",
+    "products_endpoint": "/products.json",
+    "price_tier": "premium",
+    "gender": "women",
+    "categories": [
+      "embroidered",
+      "pret"
+    ],
+    "active": true
+  },
+  {
+    "slug": "rangjah",
+    "name": "Rang Jah",
+    "base_url": "https://rangjah.pk",
+    "platform": "shopify",
+    "products_endpoint": "/products.json",
+    "price_tier": "mid",
+    "gender": "women",
+    "categories": [
+      "artisanal",
+      "eastern"
+    ],
+    "active": true
+  },
+  {
+    "slug": "zubiahassan",
+    "name": "Zubia Hassan",
+    "base_url": "https://zubiahassan.com",
+    "platform": "shopify",
+    "products_endpoint": "/products.json",
+    "price_tier": "premium",
+    "gender": "women",
+    "categories": [
+      "luxury",
+      "pret"
+    ],
+    "active": true
+  },
+  {
+    "slug": "generation",
+    "name": "Generation",
+    "base_url": "https://generation.com.pk",
+    "platform": "shopify",
+    "products_endpoint": "/products.json",
+    "price_tier": "mid",
+    "gender": "women",
+    "categories": [
+      "ethical",
+      "fashion"
+    ],
+    "active": true
+  },
+  {
+    "slug": "khaadi",
+    "name": "Khaadi",
+    "base_url": "https://khaadi.com",
+    "platform": "woocommerce",
+    "products_endpoint": "/wp-json/wc/store/v1/products",
+    "price_tier": "mid",
+    "gender": "women",
+    "categories": [
+      "eastern",
+      "western"
+    ],
+    "active": true
+  },
+  {
+    "slug": "nishatlinen",
+    "name": "Nishat Linen",
+    "base_url": "https://nishatlinen.com",
+    "platform": "shopify",
+    "products_endpoint": "/products.json",
+    "price_tier": "mid",
+    "gender": "women",
+    "categories": [
+      "fabric",
+      "pret"
+    ],
+    "active": true
+  }
+]

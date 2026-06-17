@@ -1,0 +1,17 @@
+# Secrets
+backend/.env
+
+# Python virtual environment & cache
+backend/.venv/
+backend/__pycache__/
+backend/.pytest_cache/
+backend/tests/__pycache__/
+backend/agents/__pycache__/
+backend/models/__pycache__/
+backend/tools/__pycache__/
+backend/routers/__pycache__/
+
+# Next.js node_modules and build outputs
+frontend/node_modules/
+frontend/.next/
+frontend/.env.local
